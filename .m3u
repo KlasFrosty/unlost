@@ -1,8 +1,8 @@
 EXTM3U
 
 # * » TRT « * #
-#EXTINF:-1 tvg-name="Sözcü TVm" tvg-language="Turkish" tvg-country="TR" tvg-id="Sozcu_TV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TVm
-http://185.234.111.229:8000/play/a00y
+#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
+http://185.234.111.229:8000/play/a00yy
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
