@@ -1,7 +1,7 @@
 EXTM3U
 
 # * » TRT « * #
-#EXTINF:-1 tvg-name="TELE1" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://i.imgur.com/joaI9wV.png" group-title="TELE1",TELE1 V2
+#EXTINF:-1 tvg-name="TELE1" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://i.imgur.com/joaI9wV.png" group-title="TELE1",TELE1
 http://185.234.111.229:8000/play/a01y
 
 #EXTINF:-1 tvg-name="TELE1 V2" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://i.imgur.com/joaI9wV.png" group-title="TELE1 V2",TELE1 V2
